@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='utf-8'?>
+<objave>
+  <objava id="25">
+    <idKampanje>10</idKampanje>
+    <idAvtorja>3</idAvtorja>
+    <platforma>TikTok</platforma>
+    <datum>2025-03-15</datum>
+    <ogledi>16800</ogledi>
+    <vsecki>2100</vsecki>
+    <komentarji>150</komentarji>
+    <deljenja>310</deljenja>
+    <opis>Pomladne pogače</opis>
+    <kampanja>Pomladna ponudba</kampanja>
+    <znamka>BioPeka</znamka>
+    <avtor>Maja Novak</avtor>
+    <mesto>Celje</mesto>
+    <er>15.24</er>
+  </objava>
+  <objava id="2">
+    <idKampanje>1</idKampanje>
+    <idAvtorja>6</idAvtorja>
+    <platforma>TikTok</platforma>
+    <datum>2024-06-07</datum>
+    <ogledi>48000</ogledi>
+    <vsecki>5100</vsecki>
+    <komentarji>320</komentarji>
+    <deljenja>780</deljenja>
+    <opis>Test copatov na morju</opis>
+    <kampanja>Poletna razprodaja</kampanja>
+    <znamka>Aktivna Dolina</znamka>
+    <avtor>Tilen Potočnik</avtor>
+    <mesto>Koper</mesto>
+    <er>12.92</er>
+  </objava>
+  <objava id="8">
+    <idKampanje>3</idKampanje>
+    <idAvtorja>9</idAvtorja>
+    <platforma>TikTok</platforma>
+    <datum>2024-08-25</datum>
+    <ogledi>14200</ogledi>
+    <vsecki>1500</vsecki>
+    <komentarji>98</komentarji>
+    <deljenja>205</deljenja>
+    <opis>Recept za ovseno kašo</opis>
+    <kampanja>Zdrav zajtrk</kampanja>
+    <znamka>BioPeka</znamka>
+    <avtor>Ana Mlakar</avtor>
+    <mesto>Maribor</mesto>
+    <er>12.7</er>
+  </objava>
+  <objava id="19">
+    <idKampanje>7</idKampanje>
+    <idAvtorja>4</idAvtorja>
+    <platforma>TikTok</platforma>
+    <datum>2024-12-12</datum>
+    <ogledi>88000</ogledi>
+    <vsecki>9100</vsecki>
+    <komentarji>640</komentarji>
+    <deljenja>1420</deljenja>
+    <opis>Kaj želim za božič</opis>
+    <kampanja>Novoletna darila</kampanja>
+    <znamka>Elektro Max</znamka>
+    <avtor>Jan Zupan</avtor>
+    <mesto>Kranj</mesto>
+    <er>12.68</er>
+  </objava>
+  <objava id="6">
+    <idKampanje>2</idKampanje>
+    <idAvtorja>1</idAvtorja>
+    <platforma>TikTok</platforma>
+    <datum>2024-08-01</datum>
+    <ogledi>27500</ogledi>
+    <vsecki>3100</vsecki>
+    <komentarji>120</komentarji>
+    <deljenja>260</deljenja>
+    <opis />
+    <kampanja>Nova kolekcija</kampanja>
+    <znamka>Modna hisa</znamka>
+    <avtor>Nina Kovač</avtor>
+    <mesto>Ljubljana</mesto>
+    <er>12.65</er>
+  </objava>
+  <objava id="14">
+    <idKampanje>5</idKampanje>
+    <idAvtorja>2</idAvtorja>
+    <platforma>TikTok</platforma>
+    <datum>2024-10-18</datum>
+    <ogledi>8700</ogledi>
+    <vsecki>640</vsecki>
+    <komentarji>45</komentarji>
+    <deljenja>70</deljenja>
+    <opis>Moj prvi tek</opis>
+    <kampanja>Jesenski tek</kampanja>
+    <znamka>Aktivna Dolina</znamka>
+    <avtor>Luka Horvat</avtor>
+    <mesto>Maribor</mesto>
+    <er>8.68</er>
+  </objava>
+</objave>

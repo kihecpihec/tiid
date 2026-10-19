@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<avtorji>
+  <avtor id="1">
+    <ime>Nina Kovač</ime>
+    <mesto>Ljubljana</mesto>
+    <sledilci>84200</sledilci>
+    <email>nina@kovac.si</email>
+  </avtor>
+  <avtor id="2">
+    <ime>Luka Horvat</ime>
+    <mesto>Maribor</mesto>
+    <sledilci>12500</sledilci>
+    <email>luka.h@gmail.com</email>
+  </avtor>
+  <avtor id="3">
+    <ime>Maja Novak</ime>
+    <mesto>Celje</mesto>
+    <sledilci>45300</sledilci>
+    <email>maja.novak@mail.si</email>
+  </avtor>
+  <avtor id="4">
+    <ime>Jan Zupan</ime>
+    <mesto>Kranj</mesto>
+    <sledilci>230000</sledilci>
+    <email>jan@zupanmedia.si</email>
+  </avtor>
+  <avtor id="5">
+    <ime>Eva Breznik</ime>
+    <mesto>Ptuj</mesto>
+    <sledilci>8700</sledilci>
+    <email></email>
+  </avtor>
+  <avtor id="6">
+    <ime>Tilen Potočnik</ime>
+    <mesto>Koper</mesto>
+    <sledilci>61000</sledilci>
+    <email>tilen.p@gmail.com</email>
+  </avtor>
+  <avtor id="7">
+    <ime>Sara Vidmar</ime>
+    <mesto>Novo mesto</mesto>
+    <sledilci>19800</sledilci>
+  </avtor>
+  <avtor id="8">
+    <ime>Matic Kos</ime>
+    <mesto>Ljubljana</mesto>
+    <sledilci>150400</sledilci>
+    <email>matic@kosofficial.si</email>
+  </avtor>
+  <avtor id="9">
+    <ime>Ana Mlakar</ime>
+    <mesto>Maribor</mesto>
+    <sledilci>33700</sledilci>
+    <email>ana.mlakar@gmail.com</email>
+  </avtor>
+  <avtor id="10">
+    <ime>Žiga Oblak</ime>
+    <mesto>Velenje</mesto>
+    <sledilci>5400</sledilci>
+    <email>ziga.oblak@mail.si</email>
+  </avtor>
+  <avtor id="11">
+    <ime>Katja Rozman</ime>
+    <mesto>Bled</mesto>
+    <sledilci>98000</sledilci>
+    <email>katja@rozman.si</email>
+  </avtor>
+  <avtor id="12">
+    <ime>Rok Golob</ime>
+    <mesto>Murska Sobota</mesto>
+    <sledilci>27100</sledilci>
+    <email></email>
+  </avtor>
+</avtorji>

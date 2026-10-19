@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kampanje>
+  <kampanja id="1">
+    <naziv>Poletna razprodaja</naziv>
+    <znamka>Aktivna Dolina</znamka>
+    <zacetek>2024-06-01</zacetek>
+    <konec>2024-06-30</konec>
+    <proracun>3000</proracun>
+    <status>zakljucena</status>
+  </kampanja>
+  <kampanja id="2">
+    <naziv>Nova kolekcija</naziv>
+    <znamka>Modna hisa</znamka>
+    <zacetek>2024-07-10</zacetek>
+    <konec>2024-08-10</konec>
+    <proracun>5500</proracun>
+    <status>zakljucena</status>
+  </kampanja>
+  <kampanja id="3">
+    <naziv>Zdrav zajtrk</naziv>
+    <znamka>BioPeka</znamka>
+    <zacetek>2024-08-15</zacetek>
+    <konec>2024-09-15</konec>
+    <proracun>1800</proracun>
+    <status>zakljucena</status>
+  </kampanja>
+  <kampanja id="4">
+    <naziv>Nazaj v solo</naziv>
+    <znamka>Papirnica Plus</znamka>
+    <zacetek>2024-08-20</zacetek>
+    <konec>2024-09-20</konec>
+    <proracun>2200</proracun>
+    <status>zakljucena</status>
+  </kampanja>
+  <kampanja id="5">
+    <naziv>Jesenski tek</naziv>
+    <znamka>Aktivna Dolina</znamka>
+    <zacetek>2024-09-25</zacetek>
+    <konec>2024-10-31</konec>
+    <proracun>4000</proracun>
+    <status>zakljucena</status>
+  </kampanja>
+  <kampanja id="6">
+    <naziv>Black Friday</naziv>
+    <znamka>Elektro Max</znamka>
+    <zacetek>2024-11-15</zacetek>
+    <konec>2024-11-30</konec>
+    <proracun>7500</proracun>
+    <status>zakljucena</status>
+  </kampanja>
+  <kampanja id="7">
+    <naziv>Novoletna darila</naziv>
+    <znamka>Elektro Max</znamka>
+    <zacetek>2024-12-01</zacetek>
+    <konec>2024-12-24</konec>
+    <proracun>6000</proracun>
+    <status>zakljucena</status>
+  </kampanja>
+  <kampanja id="8">
+    <naziv>Zimski popusti</naziv>
+    <znamka>Modna hisa</znamka>
+    <zacetek>2025-01-05</zacetek>
+    <konec>2025-02-05</konec>
+    <proracun>3500</proracun>
+    <status>zakljucena</status>
+  </kampanja>
+  <kampanja id="9">
+    <naziv>Valentinovo</naziv>
+    <znamka>Cvetličarna Roža</znamka>
+    <zacetek>2025-02-01</zacetek>
+    <konec>2025-02-14</konec>
+    <proracun>900</proracun>
+    <status>zakljucena</status>
+  </kampanja>
+  <kampanja id="10">
+    <naziv>Pomladna ponudba</naziv>
+    <znamka>BioPeka</znamka>
+    <zacetek>2025-03-10</zacetek>
+    <konec></konec>
+    <proracun>2000</proracun>
+    <status>v teku</status>
+  </kampanja>
+  <kampanja id="11">
+    <naziv>Veliko noč</naziv>
+    <znamka>Cvetličarna Roža</znamka>
+    <zacetek>2025-04-01</zacetek>
+    <proracun>1200</proracun>
+    <status>v teku</status>
+  </kampanja>
+  <kampanja id="12">
+    <naziv>Poletje 2025</naziv>
+    <znamka>Aktivna Dolina</znamka>
+    <zacetek>2025-06-01</zacetek>
+    <konec></konec>
+    <proracun>0</proracun>
+    <status>nacrtovana</status>
+  </kampanja>
+</kampanje>

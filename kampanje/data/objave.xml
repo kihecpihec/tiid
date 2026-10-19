@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objave>
+  <objava id="1">
+    <idKampanje>1</idKampanje>
+    <idAvtorja>1</idAvtorja>
+    <platforma>Instagram</platforma>
+    <datum>2024-06-03</datum>
+    <ogledi>15400</ogledi>
+    <vsecki>1200</vsecki>
+    <komentarji>85</komentarji>
+    <deljenja>140</deljenja>
+    <opis>Poletni outfit za na plažo</opis>
+  </objava>
+  <objava id="2">
+    <idKampanje>1</idKampanje>
+    <idAvtorja>6</idAvtorja>
+    <platforma>TikTok</platforma>
+    <datum>2024-06-07</datum>
+    <ogledi>48000</ogledi>
+    <vsecki>5100</vsecki>
+    <komentarji>320</komentarji>
+    <deljenja>780</deljenja>
+    <opis>Test copatov na morju</opis>
+  </objava>
+  <objava id="3">
+    <idKampanje>1</idKampanje>
+    <idAvtorja>2</idAvtorja>
+    <platforma>Instagram</platforma>
+    <datum>2024-06-12</datum>
+    <ogledi>3200</ogledi>
+    <vsecki>210</vsecki>
+    <komentarji>15</komentarji>
+    <deljenja>9</deljenja>
+    <opis>Razprodaja do -50%</opis>
+  </objava>
+  <objava id="4">
+    <idKampanje>2</idKampanje>
+    <idAvtorja>4</idAvtorja>
+    <platforma>YouTube</platforma>
+    <datum>2024-07-15</datum>
+    <ogledi>92000</ogledi>
+    <vsecki>6800</vsecki>
+    <komentarji>540</komentarji>
+    <deljenja>410</deljenja>
+    <opis>Haul nove kolekcije</opis>
+  </objava>
+  <objava id="5">
+    <idKampanje>2</idKampanje>
+    <idAvtorja>11</idAvtorja>
+    <platforma>Instagram</platforma>
+    <datum>2024-07-20</datum>
+    <ogledi>30100</ogledi>
+    <vsecki>2900</vsecki>
+    <komentarji>160</komentarji>
+    <deljenja>95</deljenja>
+    <opis>Jesen je pred vrati</opis>
+  </objava>
+  <objava id="6">
+    <idKampanje>2</idKampanje>
+    <idAvtorja>1</idAvtorja>
+    <platforma>TikTok</platforma>
+    <datum>2024-08-01</datum>
+    <ogledi>27500</ogledi>
+    <vsecki>3100</vsecki>
+    <komentarji>120</komentarji>
+    <deljenja>260</deljenja>
+  </objava>
+  <objava id="7">
+    <idKampanje>3</idKampanje>
+    <idAvtorja>3</idAvtorja>
+    <platforma>Instagram</platforma>
+    <datum>2024-08-18</datum>
+    <ogledi>9800</ogledi>
+    <vsecki>870</vsecki>
+    <komentarji>64</komentarji>
+    <deljenja>31</deljenja>
+    <opis>Zajtrk v 5 minutah</opis>
+  </objava>
+  <objava id="8">
+    <idKampanje>3</idKampanje>
+    <idAvtorja>9</idAvtorja>
+    <platforma>TikTok</platforma>
+    <datum>2024-08-25</datum>
+    <ogledi>14200</ogledi>
+    <vsecki>1500</vsecki>
+    <komentarji>98</komentarji>
+    <deljenja>205</deljenja>
+    <opis>Recept za ovseno kašo</opis>
+  </objava>
+  <objava id="9">
+    <idKampanje>3</idKampanje>
+    <idAvtorja>5</idAvtorja>
+    <platforma>Instagram</platforma>
+    <datum>2024-09-02</datum>
+    <ogledi>2100</ogledi>
+    <vsecki>190</vsecki>
+    <komentarji>22</komentarji>
+    <deljenja>4</deljenja>
+    <opis></opis>
+  </objava>
+  <objava id="10">
+    <idKampanje>4</idKampanje>
+    <idAvtorja>10</idAvtorja>
+    <platforma>TikTok</platforma>
+    <datum>2024-08-28</datum>
+    <ogledi>1800</ogledi>
+    <vsecki>95</vsecki>
+    <komentarji>7</komentarji>
+    <deljenja>12</deljenja>
+    <opis>Šolske potrebščine</opis>
+  </objava>
+  <objava id="11">
+    <idKampanje>4</idKampanje>
+    <idAvtorja>7</idAvtorja>
+    <platforma>Instagram</platforma>
+    <datum>2024-09-05</datum>
+    <ogledi>5200</ogledi>
+    <vsecki>310</vsecki>
+    <komentarji>28</komentarji>
+    <deljenja>19</deljenja>
+    <opis>Nazaj v šolo</opis>
+  </objava>
+  <objava id="12">
+    <idKampanje>5</idKampanje>
+    <idAvtorja>8</idAvtorja>
+    <platforma>YouTube</platforma>
+    <datum>2024-10-02</datum>
+    <ogledi>120500</ogledi>
+    <vsecki>9800</vsecki>
+    <komentarji>870</komentarji>
+    <deljenja>1300</deljenja>
+    <opis>Priprava na polmaraton</opis>
+  </objava>
+  <objava id="13">
+    <idKampanje>5</idKampanje>
+    <idAvtorja>6</idAvtorja>
+    <platforma>Instagram</platforma>
+    <datum>2024-10-10</datum>
+    <ogledi>21000</ogledi>
+    <vsecki>1900</vsecki>
+    <komentarji>102</komentarji>
+    <deljenja>88</deljenja>
+    <opis>Jutranji tek ob morju</opis>
+  </objava>
+  <objava id="14">
+    <idKampanje>5</idKampanje>
+    <idAvtorja>2</idAvtorja>
+    <platforma>TikTok</platforma>
+    <datum>2024-10-18</datum>
+    <ogledi>8700</ogledi>
+    <vsecki>640</vsecki>
+    <komentarji>45</komentarji>
+    <deljenja>70</deljenja>
+    <opis>Moj prvi tek</opis>
+  </objava>
+  <objava id="15">
+    <idKampanje>6</idKampanje>
+    <idAvtorja>8</idAvtorja>
+    <platforma>Instagram</platforma>
+    <datum>2024-11-18</datum>
+    <ogledi>76000</ogledi>
+    <vsecki>5400</vsecki>
+    <komentarji>410</komentarji>
+    <deljenja>350</deljenja>
+    <opis>Black Friday ponudbe</opis>
+  </objava>
+  <objava id="16">
+    <idKampanje>6</idKampanje>
+    <idAvtorja>4</idAvtorja>
+    <platforma>YouTube</platforma>
+    <datum>2024-11-22</datum>
+    <ogledi>145000</ogledi>
+    <vsecki>11200</vsecki>
+    <komentarji>990</komentarji>
+    <deljenja>1750</deljenja>
+    <opis>Top 10 tehnike na popustu</opis>
+  </objava>
+  <objava id="17">
+    <idKampanje>6</idKampanje>
+    <idAvtorja>12</idAvtorja>
+    <platforma>Facebook</platforma>
+    <datum>2024-11-25</datum>
+    <ogledi>6300</ogledi>
+    <vsecki>280</vsecki>
+    <komentarji>36</komentarji>
+    <deljenja>52</deljenja>
+    <opis>Pametni telefoni -30%</opis>
+  </objava>
+  <objava id="18">
+    <idKampanje>7</idKampanje>
+    <idAvtorja>11</idAvtorja>
+    <platforma>Instagram</platforma>
+    <datum>2024-12-05</datum>
+    <ogledi>43000</ogledi>
+    <vsecki>3700</vsecki>
+    <komentarji>250</komentarji>
+    <deljenja>180</deljenja>
+    <opis>Ideje za darila</opis>
+  </objava>
+  <objava id="19">
+    <idKampanje>7</idKampanje>
+    <idAvtorja>4</idAvtorja>
+    <platforma>TikTok</platforma>
+    <datum>2024-12-12</datum>
+    <ogledi>88000</ogledi>
+    <vsecki>9100</vsecki>
+    <komentarji>640</komentarji>
+    <deljenja>1420</deljenja>
+    <opis>Kaj želim za božič</opis>
+  </objava>
+  <objava id="20">
+    <idKampanje>7</idKampanje>
+    <idAvtorja>12</idAvtorja>
+    <platforma>Facebook</platforma>
+    <datum>2024-12-15</datum>
+    <ogledi>4100</ogledi>
+    <vsecki>150</vsecki>
+    <komentarji>19</komentarji>
+    <deljenja>23</deljenja>
+  </objava>
+  <objava id="21">
+    <idKampanje>8</idKampanje>
+    <idAvtorja>1</idAvtorja>
+    <platforma>Instagram</platforma>
+    <datum>2025-01-10</datum>
+    <ogledi>18700</ogledi>
+    <vsecki>1650</vsecki>
+    <komentarji>93</komentarji>
+    <deljenja>70</deljenja>
+    <opis>Zimski outfiti</opis>
+  </objava>
+  <objava id="22">
+    <idKampanje>8</idKampanje>
+    <idAvtorja>3</idAvtorja>
+    <platforma>Facebook</platforma>
+    <datum>2025-01-22</datum>
+    <ogledi>7400</ogledi>
+    <vsecki>420</vsecki>
+    <komentarji>31</komentarji>
+    <deljenja>40</deljenja>
+    <opis>Popusti do -70%</opis>
+  </objava>
+  <objava id="23">
+    <idKampanje>9</idKampanje>
+    <idAvtorja>9</idAvtorja>
+    <platforma>Instagram</platforma>
+    <datum>2025-02-08</datum>
+    <ogledi>11900</ogledi>
+    <vsecki>1280</vsecki>
+    <komentarji>142</komentarji>
+    <deljenja>66</deljenja>
+    <opis>Ideje za Valentinovo</opis>
+  </objava>
+  <objava id="24">
+    <idKampanje>9</idKampanje>
+    <idAvtorja>5</idAvtorja>
+    <platforma>Facebook</platforma>
+    <datum>2025-02-11</datum>
+    <ogledi>900</ogledi>
+    <vsecki>41</vsecki>
+    <komentarji>5</komentarji>
+    <deljenja>2</deljenja>
+    <opis>Šopek za dva</opis>
+  </objava>
+  <objava id="25">
+    <idKampanje>10</idKampanje>
+    <idAvtorja>3</idAvtorja>
+    <platforma>TikTok</platforma>
+    <datum>2025-03-15</datum>
+    <ogledi>16800</ogledi>
+    <vsecki>2100</vsecki>
+    <komentarji>150</komentarji>
+    <deljenja>310</deljenja>
+    <opis>Pomladne pogače</opis>
+  </objava>
+  <objava id="26">
+    <idKampanje>10</idKampanje>
+    <idAvtorja>10</idAvtorja>
+    <platforma>Instagram</platforma>
+    <datum>2025-03-22</datum>
+    <ogledi>2600</ogledi>
+    <vsecki>170</vsecki>
+    <komentarji>12</komentarji>
+    <deljenja>6</deljenja>
+  </objava>
+  <objava id="27">
+    <idKampanje>11</idKampanje>
+    <idAvtorja>7</idAvtorja>
+    <platforma>Instagram</platforma>
+    <datum>2025-04-03</datum>
+    <ogledi>4900</ogledi>
+    <vsecki>380</vsecki>
+    <komentarji>40</komentarji>
+    <deljenja>22</deljenja>
+    <opis>Velikonočni aranžmaji</opis>
+  </objava>
+</objave>
